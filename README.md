@@ -4,7 +4,7 @@ I'm currently a third year IT student at Hanze Hogeschool in Groningen. I like c
 I like tennis and running.
 
 
-## 🔗 Links
+## 🔗 Link
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-camilo-huizinga-mora-007aa61a2)
 
 ## Other Common Github Profile Sections
