@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
 I'm currently a third year IT student at Hanze Hogeschool in Groningen. I like challenges, learning new things and travelling.
-I like tennis and running.
 
 
 ## 🔗 Link
