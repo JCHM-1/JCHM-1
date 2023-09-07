@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I am currently a third year IT student at Hanze Hogeschool in Groningen. I like challenges, learning new things and travelling.
+I am currently a fourth year IT student at Hanze Hogeschool in Groningen. I like challenges, learning new things and travelling.
 
 
 ## 🔗 Link
